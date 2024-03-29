@@ -1,4 +1,4 @@
-# LezMoviesDataBase
+# LezMoviesDatabase
 
 *projet perso sur deux jours en stack MERN d'interface graphique pour une base de données de films*
 
